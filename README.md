@@ -3,7 +3,9 @@
 ## Web-Based Social Engineering Simulation
 
 ---
+<img width="1919" height="869" alt="Screenshot 2026-02-04 224512" src="https://github.com/user-attachments/assets/2491b2fa-fc4d-4404-978d-22f57ab0abd8" />
 
+---
 ## Overview
 
 This project is a **web-based cybersecurity awareness demonstration** designed to educate users on how modern cyber threats leverage **social engineering** and **permission misuse**, rather than traditional malware-based attacks.
@@ -145,4 +147,5 @@ Use of this project must comply with applicable **cybersecurity laws**, **privac
 This demonstration reinforces a critical cybersecurity principle:
 
 > **Human behavior is often the weakest link in security.**
+
 
